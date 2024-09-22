@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SharpEntity</title>
-    <link>https://marlinspike.github.io/sharpentity.github.io/</link>
+    <link>http://localhost:1313/sharpentity.github.io/</link>
     <description>Recent content on SharpEntity</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 21 Sep 2024 22:01:32 -0400</lastBuildDate>
-    <atom:link href="https://marlinspike.github.io/sharpentity.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sharpentity.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://marlinspike.github.io/sharpentity.github.io/contact/</link>
+      <link>http://localhost:1313/sharpentity.github.io/contact/</link>
       <pubDate>Sat, 21 Sep 2024 22:01:32 -0400</pubDate>
-      <guid>https://marlinspike.github.io/sharpentity.github.io/contact/</guid>
+      <guid>http://localhost:1313/sharpentity.github.io/contact/</guid>
       <description>&lt;p&gt;Speak to us about how we can help you succeed, at &lt;a href=&#34;mailto:Info@SharpEntity.com&#34;&gt;Info@SharpEntity.com&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Leadership</title>
-      <link>https://marlinspike.github.io/sharpentity.github.io/leadership/</link>
+      <link>http://localhost:1313/sharpentity.github.io/leadership/</link>
       <pubDate>Sat, 21 Sep 2024 21:51:24 -0400</pubDate>
-      <guid>https://marlinspike.github.io/sharpentity.github.io/leadership/</guid>
+      <guid>http://localhost:1313/sharpentity.github.io/leadership/</guid>
       <description>&lt;h2 id=&#34;eleonore-aubry&#34;&gt;Eleonore Aubry&lt;/h2&gt;&#xA;&lt;p&gt;Eleonore Aubry is an accomplished professional with extensive experience in strategy, marketing, and technology. With a track record of driving innovation and digital transformation, she has worked across various industries to deliver impactful results. Eleonore’s expertise lies in building strategic partnerships, leading cross-functional teams, and executing complex projects with a customer-centric approach.&lt;/p&gt;&#xA;&lt;h2 id=&#34;reuben-cleetus&#34;&gt;Reuben Cleetus&lt;/h2&gt;&#xA;&lt;p&gt;Reuben Cleetus is a visionary leader with deep expertise in cloud computing, AI, and digital transformation. He has successfully led numerous large-scale initiatives, combining technical acumen with strategic thinking to deliver innovative solutions. Reuben’s experience spans across cloud-native architectures, DevSecOps, and AI-driven strategies, making him a driving force behind SharpEntity’s success.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Genai</title>
-      <link>https://marlinspike.github.io/sharpentity.github.io/services/genai/</link>
+      <link>http://localhost:1313/sharpentity.github.io/services/genai/</link>
       <pubDate>Sat, 21 Sep 2024 21:43:38 -0400</pubDate>
-      <guid>https://marlinspike.github.io/sharpentity.github.io/services/genai/</guid>
+      <guid>http://localhost:1313/sharpentity.github.io/services/genai/</guid>
       <description>&lt;p&gt;We are &lt;strong&gt;GenAI pioneers&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;At SharpEntity, we are at the vanguard of Generative AI innovation, pushing the boundaries of what’s possible both in the Cloud and at the Edge, including Disconnected Edge environments. Our expertise in Generative AI empowers your organization to harness unparalleled opportunities for innovation, efficiency, and growth.&lt;/p&gt;&#xA;&lt;h3 id=&#34;cloud-and-edge-excellence&#34;&gt;Cloud and Edge Excellence&lt;/h3&gt;&#xA;&lt;p&gt;Our cutting-edge solutions leverage the full potential of Generative AI, delivering robust capabilities whether you’re operating in a fully connected cloud environment or tackling the challenges of disconnected edge scenarios. SharpEntity’s solutions ensure that your AI-driven initiatives are resilient, adaptive, and seamlessly integrated into your existing infrastructure.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Strategic Consulting</title>
-      <link>https://marlinspike.github.io/sharpentity.github.io/services/strategic-consulting/</link>
+      <link>http://localhost:1313/sharpentity.github.io/services/strategic-consulting/</link>
       <pubDate>Sat, 21 Sep 2024 21:36:19 -0400</pubDate>
-      <guid>https://marlinspike.github.io/sharpentity.github.io/services/strategic-consulting/</guid>
+      <guid>http://localhost:1313/sharpentity.github.io/services/strategic-consulting/</guid>
       <description>&lt;p&gt;Partner with SharpEntity to gain strategic insights and actionable solutions that drive your business forward. Our consulting services are designed to help you navigate complex technological landscapes, align your IT strategies with your business goals, and achieve sustainable growth.​&lt;/p&gt;</description>
     </item>
     <item>
       <title>Architecture Design</title>
-      <link>https://marlinspike.github.io/sharpentity.github.io/services/architecture-design/</link>
+      <link>http://localhost:1313/sharpentity.github.io/services/architecture-design/</link>
       <pubDate>Sat, 21 Sep 2024 21:36:18 -0400</pubDate>
-      <guid>https://marlinspike.github.io/sharpentity.github.io/services/architecture-design/</guid>
+      <guid>http://localhost:1313/sharpentity.github.io/services/architecture-design/</guid>
       <description>&lt;p&gt;Challenged to find the next disruptive market using the most opportune technologies is your challenge. We&amp;rsquo;re there to make it possible.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cloud Migration</title>
-      <link>https://marlinspike.github.io/sharpentity.github.io/services/cloud-migration/</link>
+      <link>http://localhost:1313/sharpentity.github.io/services/cloud-migration/</link>
       <pubDate>Sat, 21 Sep 2024 21:36:18 -0400</pubDate>
-      <guid>https://marlinspike.github.io/sharpentity.github.io/services/cloud-migration/</guid>
+      <guid>http://localhost:1313/sharpentity.github.io/services/cloud-migration/</guid>
       <description>&lt;p&gt;We are &lt;strong&gt;Cloud Experts&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Leverage our extensive experience in cloud migration and modernization to transition your legacy systems to agile, scalable, and secure cloud environments. We specialize in Azure and AWS cloud services, offering tailored solutions that enhance operational efficiency and drive growth.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://marlinspike.github.io/sharpentity.github.io/about/</link>
+      <link>http://localhost:1313/sharpentity.github.io/about/</link>
       <pubDate>Sat, 21 Sep 2024 21:31:39 -0400</pubDate>
-      <guid>https://marlinspike.github.io/sharpentity.github.io/about/</guid>
+      <guid>http://localhost:1313/sharpentity.github.io/about/</guid>
       <description>&lt;h2 id=&#34;our-core-values&#34;&gt;Our Core Values&lt;/h2&gt;&#xA;&lt;p&gt;As a firm, we are committed to a set of common principles, which define us and set us apart. Our values are shared by all of SharpEntity, and all our team members, at every level, are expected to apply these values in their daily work.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dedication&#34;&gt;Dedication&lt;/h2&gt;&#xA;&lt;p&gt;We are dedicated to achieving our client’s mission, and to do that, we selectively hire consultants who are personally and professionally committed to excellence. We reinforce our shared commitment to our work by fostering environments that reward attention to detail and achieving our client’s goals.&lt;/p&gt;</description>
     </item>
   </channel>
