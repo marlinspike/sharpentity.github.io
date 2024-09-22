@@ -1,0 +1,8 @@
+.homepage-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-size: 18px; /* Increase font size */
+  line-height: 1.6; /* Adjust line height for better readability */
+  font-family: "Georgia", serif; /* Change font to match your example */
+}
